@@ -45,7 +45,7 @@
       },
       {
         titulo: "Gloria a Dios", 
-        tono: "A",  
+        tono: "G",  
         letra: `
         Gloria, gloria a Dios en el cielo
         y en la tierra paz a los hombres que aman al señorrr
